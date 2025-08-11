@@ -3,7 +3,7 @@
 This project predicts maternal health risks using machine learning, developed as part of the AICTE–IBM Virtual Internship.
 
 ## 📊 Dataset
-- Source: [Maternal Health Risk Data](https://www.kaggle.com/datasets/andrewmvd/maternal-health-risk-data)
+- **File**: [`maternal_health.csv`](data/maternal_health.csv)
 - Features: Age, Blood Pressure, Heart Rate, etc.
 - Target: Risk Level (Low, Medium, High)
 
